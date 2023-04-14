@@ -2,7 +2,7 @@
 
 > Create the DB tables first:
 
-**python manage.py makemigraions**
+**python manage.py makemigraions** </br>
 **python manage.py migrate**
 
 # Run the development web server:
