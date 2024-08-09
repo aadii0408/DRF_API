@@ -1,4 +1,4 @@
-# Running the Application
+# To run the Application
 
 > Create the DB tables first:
 
